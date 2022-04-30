@@ -1,0 +1,56 @@
+/* Colors and fonts */
+
+
+body{
+	background-color: lightblue;
+	color: darkblue;
+}
+
+h1,h2{
+	font-family: 'Square Peg', cursive;
+}
+h1 {
+    color: #f45faaba;
+    font-weight: bolder;
+    letter-spacing: 8px;
+    font-size: 60px;
+    text-transform: uppercase;
+    
+}
+
+h2{
+	font-size: 40px;
+
+}
+p{
+	color: hotpink;
+	font-family: Courier;
+	font-size: 16px;
+}
+
+
+a{
+	color: darkcyan;
+	font-weight: bolder;
+}
+a:hover{
+	font-size: 20px;
+	color: yellowgreen;
+}
+
+
+
+
+
+#container{
+	width: 700px;
+    margin: 30px auto;
+}
+
+.boxes{
+	background-color: whitesmoke;
+	padding: 60px;
+	margin: 40px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+	border-radius: 5px;
+}
